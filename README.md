@@ -1,6 +1,6 @@
 
 
-I recently completed my PhD at the University of Colorado - Anschutz Medical Campus in Immunology. During that time, I learned and utilized MatLab and R scripting for data processing and analysis. Prior to graduate school, I took two semesters of computer science courses in Java, and wrote a custom program for quantifying and analyzing Western blot data (I'm having issues finding it currently, but will upload when I do). This GitHub profile is meant to serve as a repository and portfolio of scripts and programs that I've written or contributed to. Feel free to message me with questions!
+I recently completed my PhD at the University of Colorado - Anschutz Medical Campus in Immunology. During that time, I learned and utilized MatLab and R scripting for data processing and analysis. Prior to graduate school, I took two semesters of computer science courses in Java, and wrote a custom program for quantifying and analyzing Western blot data. This GitHub profile is meant to serve as a repository and portfolio of scripts and programs that I've written or contributed to. Feel free to message me with questions!
 
 Programming Languages:
 
